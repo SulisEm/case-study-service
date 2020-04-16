@@ -245,7 +245,6 @@ to operators-looking
           if destination = patch-here [set state "W"]
           set work-with t
         ]
-
         set pstate "busy"
       ]
 
